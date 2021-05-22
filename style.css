@@ -1,0 +1,13 @@
+p,h1{
+    text-align: center;
+
+}
+
+
+
+.header{
+    background-color: rgb(161, 165, 163);
+    margin-right : 30px
+    display : flex;
+    justify-content: space-between;
+}
